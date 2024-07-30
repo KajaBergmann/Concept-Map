@@ -1,0 +1,78 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden; /* Optional: Prevents scrolling */
+}
+
+.container {
+    position: relative;
+    width: 90%;
+    height: 90%;
+    background-image: url('resources/Neuro.jpg');
+    background-size: contain; /* Ensures the image fits within the container without being cut */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.clickable-area {
+    position: absolute;
+    border: 2px dashed #FF0000;
+    cursor: pointer;
+}
+
+.area1 {
+    top: 20%; /* Adjust these values to position the first rectangle */
+    left: 30%; /* Adjust these values to position the first rectangle */
+    width: 150px;
+    height: 100px;
+}
+
+.area2 {
+    top: 50%; /* Adjust these values to position the second rectangle */
+    left: 40%; /* Adjust these values to position the second rectangle */
+    width: 200px;
+    height: 150px;
+}
+
+.area3 {
+    top: 70%; /* Adjust these values to position the third rectangle */
+    left: 20%; /* Adjust these values to position the third rectangle */
+    width: 100px;
+    height: 50px;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+.popup .close {
+    display: block;
+    text-align: right;
+    font-size: 20px;
+    margin-top: -10px;
+    margin-right: -10px;
+    cursor: pointer;
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 500;
+}
