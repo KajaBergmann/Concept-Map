@@ -5,7 +5,9 @@ function showPopup(area) {
     } else if (area === 2) {
         content.innerHTML = '<img src="resources/aufbau.png" alt="Aufbau" style="width:100%;"><br>';
     } else if (area === 3) {
-        content.textContent = 'Information for Area 3';
+        content.innerHTML = '<img src="resources/funktion.png" alt="Funktion" style="width:100%;"><br>';
+    } else if (area === 4) {
+        content.innerHTML = '<img src="resources/nervenzelle.png" alt="Nervenzelle" style="width:100%;"><br>';
     }
     document.querySelector('.popup').style.display = 'block';
     document.querySelector('.overlay').style.display = 'block';

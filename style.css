@@ -36,6 +36,20 @@ body, html {
     height: 51%;
 }
 
+.area3 {
+    top: 51%; /* Adjust these values to position the second rectangle */
+    left: 58%; /* Adjust these values to position the second rectangle */
+    width: 35%;
+    height: 49%;
+}
+
+.area4 {
+    top: 12%; /* Adjust these values to position the second rectangle */
+    left: 30%; /* Adjust these values to position the second rectangle */
+    width: 20%;
+    height: 20%;
+}
+
 .popup {
     display: none;
     position: fixed;
