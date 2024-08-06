@@ -8,8 +8,8 @@ body, html {
 
 .container {
     position: relative;
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
     background-image: url('resources/Neuro.jpg');
     background-size: contain; /* Ensures the image fits within the container without being cut */
     background-repeat: no-repeat;
@@ -23,24 +23,10 @@ body, html {
 }
 
 .area1 {
-    top: 20%; /* Adjust these values to position the first rectangle */
-    left: 30%; /* Adjust these values to position the first rectangle */
-    width: 150px;
-    height: 100px;
-}
-
-.area2 {
-    top: 50%; /* Adjust these values to position the second rectangle */
-    left: 40%; /* Adjust these values to position the second rectangle */
-    width: 200px;
-    height: 150px;
-}
-
-.area3 {
-    top: 70%; /* Adjust these values to position the third rectangle */
-    left: 20%; /* Adjust these values to position the third rectangle */
-    width: 100px;
-    height: 50px;
+    top: 35%; /* Adjust these values to position the first rectangle */
+    left: 42%; /* Adjust these values to position the first rectangle */
+    width: 15%;
+    height: 10%;
 }
 
 .popup {
@@ -49,8 +35,9 @@ body, html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 300px;
-    padding: 20px;
+    width: 60%;
+    height: 60%;
+    padding: 1%;
     background-color: #fff;
     border: 1px solid #ccc;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
