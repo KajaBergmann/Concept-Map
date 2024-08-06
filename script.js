@@ -8,6 +8,10 @@ function showPopup(area) {
         content.innerHTML = '<img src="resources/funktion.png" alt="Funktion" style="width:100%;"><br>';
     } else if (area === 4) {
         content.innerHTML = '<img src="resources/nervenzelle.png" alt="Nervenzelle" style="width:100%;"><br>';
+    } else if (area === 5) {
+        content.innerHTML = '<img src="resources/erregungsleitung.png" alt="Erregungsleitung" style="width:100%;"><br>';
+    } else if (area === 6) {
+        content.innerHTML = '<img src="resources/ubertragung.png" alt="Ubertragung" style="width:100%;"><br>';    
     }
     document.querySelector('.popup').style.display = 'block';
     document.querySelector('.overlay').style.display = 'block';

@@ -50,6 +50,22 @@ body, html {
     height: 20%;
 }
 
+.area5 {
+    top: 51%; /* Adjust these values to position the second rectangle */
+    left: 27%; /* Adjust these values to position the second rectangle */
+    width: 32%;
+    height: 49%;
+}
+
+.area6 {
+    top: 39%; /* Adjust these values to position the second rectangle */
+    left: 5%; /* Adjust these values to position the second rectangle */
+    width: 20%;
+    height: 70%;
+}
+
+
+
 .popup {
     display: none;
     position: fixed;
