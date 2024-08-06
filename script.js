@@ -3,7 +3,7 @@ function showPopup(area) {
     if (area === 1) {
         content.innerHTML = '<img src="resources/nervensystem.png" alt="Nervensystem" style="width:100%;"><br>';
     } else if (area === 2) {
-        content.textContent = 'Information for Area 2';
+        content.innerHTML = '<img src="resources/aufbau.png" alt="Aufbau" style="width:100%;"><br>';
     } else if (area === 3) {
         content.textContent = 'Information for Area 3';
     }
