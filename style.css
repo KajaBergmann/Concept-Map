@@ -44,8 +44,8 @@ body, html {
 }
 
 .area4 {
-    top: 12%; /* Adjust these values to position the second rectangle */
-    left: 30%; /* Adjust these values to position the second rectangle */
+    top: 15%; /* Adjust these values to position the second rectangle */
+    left: 20%; /* Adjust these values to position the second rectangle */
     width: 20%;
     height: 20%;
 }
