@@ -24,7 +24,7 @@ body, html {
 
 .area1 {
     top: 33%; /* Adjust these values to position the first rectangle */
-    left: 42%; /* Adjust these values to position the first rectangle */
+    left: 41.5%; /* Adjust these values to position the first rectangle */
     width: 16%;
     height: 14%;
 }
@@ -32,7 +32,7 @@ body, html {
 .area2 {
     top: 0%; /* Adjust these values to position the second rectangle */
     left: 63%; /* Adjust these values to position the second rectangle */
-    width: 27%;
+    width: 28%;
     height: 51%;
 }
 
@@ -46,21 +46,21 @@ body, html {
 .area4 {
     top: 18%; /* Adjust these values to position the second rectangle */
     left: 24%; /* Adjust these values to position the second rectangle */
-    width: 14%;
-    height: 25%;
+    width: 14.5%;
+    height: 25.5%;
 }
 
 .area5 {
     top: 53%; /* Adjust these values to position the second rectangle */
     left: 29%; /* Adjust these values to position the second rectangle */
-    width: 28%;
+    width: 27%;
     height: 46%;
 }
 
 .area6 {
     top: 38%; /* Adjust these values to position the second rectangle */
-    left: 7%; /* Adjust these values to position the second rectangle */
-    width: 16%;
+    left: 8%; /* Adjust these values to position the second rectangle */
+    width: 15%;
     height: 68%;
 }
 
