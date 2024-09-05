@@ -18,7 +18,7 @@ body, html {
 
 .clickable-area {
     position: absolute;
-    border: 2px solid rgb(237, 84, 67);
+    border: 2px transparent;
     cursor: pointer;
 }
 
