@@ -23,45 +23,45 @@ body, html {
 }
 
 .area1 {
-    top: 35%; /* Adjust these values to position the first rectangle */
-    left: 42%; /* Adjust these values to position the first rectangle */
+    top: 32%; /* Adjust these values to position the first rectangle */
+    left: 44%; /* Adjust these values to position the first rectangle */
     width: 15%;
-    height: 10%;
+    height: 14%;
 }
 
 .area2 {
     top: 0%; /* Adjust these values to position the second rectangle */
-    left: 58%; /* Adjust these values to position the second rectangle */
-    width: 35%;
+    left: 62%; /* Adjust these values to position the second rectangle */
+    width: 30%;
     height: 51%;
 }
 
 .area3 {
-    top: 51%; /* Adjust these values to position the second rectangle */
-    left: 58%; /* Adjust these values to position the second rectangle */
-    width: 35%;
+    top: 52%; /* Adjust these values to position the second rectangle */
+    left: 65%; /* Adjust these values to position the second rectangle */
+    width: 28%;
     height: 49%;
 }
 
 .area4 {
-    top: 15%; /* Adjust these values to position the second rectangle */
-    left: 20%; /* Adjust these values to position the second rectangle */
-    width: 20%;
-    height: 20%;
+    top: 17%; /* Adjust these values to position the second rectangle */
+    left: 25%; /* Adjust these values to position the second rectangle */
+    width: 15%;
+    height: 23%;
 }
 
 .area5 {
-    top: 51%; /* Adjust these values to position the second rectangle */
-    left: 27%; /* Adjust these values to position the second rectangle */
-    width: 32%;
-    height: 49%;
+    top: 53%; /* Adjust these values to position the second rectangle */
+    left: 29%; /* Adjust these values to position the second rectangle */
+    width: 30%;
+    height: 46%;
 }
 
 .area6 {
-    top: 39%; /* Adjust these values to position the second rectangle */
-    left: 5%; /* Adjust these values to position the second rectangle */
-    width: 20%;
-    height: 70%;
+    top: 38%; /* Adjust these values to position the second rectangle */
+    left: 10%; /* Adjust these values to position the second rectangle */
+    width: 15%;
+    height: 68%;
 }
 
 
