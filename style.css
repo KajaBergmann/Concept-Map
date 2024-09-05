@@ -23,44 +23,44 @@ body, html {
 }
 
 .area1 {
-    top: 32%; /* Adjust these values to position the first rectangle */
-    left: 44%; /* Adjust these values to position the first rectangle */
-    width: 15%;
+    top: 33%; /* Adjust these values to position the first rectangle */
+    left: 42%; /* Adjust these values to position the first rectangle */
+    width: 16%;
     height: 14%;
 }
 
 .area2 {
     top: 0%; /* Adjust these values to position the second rectangle */
-    left: 62%; /* Adjust these values to position the second rectangle */
-    width: 30%;
+    left: 63%; /* Adjust these values to position the second rectangle */
+    width: 27%;
     height: 51%;
 }
 
 .area3 {
     top: 52%; /* Adjust these values to position the second rectangle */
-    left: 65%; /* Adjust these values to position the second rectangle */
+    left: 63%; /* Adjust these values to position the second rectangle */
     width: 28%;
     height: 49%;
 }
 
 .area4 {
-    top: 17%; /* Adjust these values to position the second rectangle */
-    left: 25%; /* Adjust these values to position the second rectangle */
-    width: 15%;
-    height: 23%;
+    top: 18%; /* Adjust these values to position the second rectangle */
+    left: 24%; /* Adjust these values to position the second rectangle */
+    width: 14%;
+    height: 25%;
 }
 
 .area5 {
     top: 53%; /* Adjust these values to position the second rectangle */
     left: 29%; /* Adjust these values to position the second rectangle */
-    width: 30%;
+    width: 28%;
     height: 46%;
 }
 
 .area6 {
     top: 38%; /* Adjust these values to position the second rectangle */
-    left: 10%; /* Adjust these values to position the second rectangle */
-    width: 15%;
+    left: 7%; /* Adjust these values to position the second rectangle */
+    width: 16%;
     height: 68%;
 }
 
